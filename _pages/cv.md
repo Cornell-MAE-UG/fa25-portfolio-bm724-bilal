@@ -1,19 +1,24 @@
 ---
 layout: default
 title: Bilal Mahmood - Curriculum Vitae
-permalink: /assets/Bilal_Mahmood_Resume_Skanska.pdf
+permalink: /cv/
 ---
+
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/Bilal_Mahmood_Resume_Skanska.pdf" | relative_url }}) in PDF format.
+<object data="{{ site.baseurl }}/assets/Bilal_Mahmood_Resume_Skanska.pdf" type="application/pdf" width="100%" height="800px">
+  <p>Your browser doesn’t support embedded PDFs. 
+  <a href="{{ site.baseurl }}/assets/Bilal_Mahmood_Resume_Skanska.pdf">Download my CV</a> instead.</p>
+</object>
 
+---
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | **Phone:** +123 456 7890
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in... Passionate about... and eager to apply my knowledge in real-world applications.
 
 ---
 
@@ -36,12 +41,12 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Projects
-- **[Project Title]**:  
+- **[Project Title]**  
   *[Short Description]*  
   - Key Achievement 1  
   - Key Achievement 2  
 
-- **[Project Title]**:  
+- **[Project Title]**  
   *[Short Description]*  
   - Key Achievement 1  
   - Key Achievement 2  
@@ -49,8 +54,8 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
+- **[Company Name] – Intern**  
+  [Month, Year] – [Month, Year]  
   - Responsibility 1  
   - Responsibility 2  
 
