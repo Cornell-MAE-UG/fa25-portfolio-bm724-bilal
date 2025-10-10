@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bilal Mahmood - Curriculum Vitae
-permalink: /cv/
+permalink: /_cv/
 ---
 ## Curriculum Vitae
 
