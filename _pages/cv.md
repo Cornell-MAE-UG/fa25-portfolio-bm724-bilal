@@ -1,11 +1,11 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Bilal Mahmood - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Bilal_Mahmood_Resume_Skanska.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
