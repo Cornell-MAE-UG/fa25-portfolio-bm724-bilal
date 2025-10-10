@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bilal Mahmood - Curriculum Vitae
-permalink: /_cv/
+permalink: /assets/Bilal_Mahmood_Resume_Skanska.pdf
 ---
 ## Curriculum Vitae
 
