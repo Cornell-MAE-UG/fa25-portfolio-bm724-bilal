@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bilal Mahmood - Portfolio
-permalink: /projects/
+permalink: /_projects/
 ---
 
 <div class="gallery-container">
