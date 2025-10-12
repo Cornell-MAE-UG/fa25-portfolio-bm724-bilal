@@ -6,9 +6,9 @@ permalink: /cv/
 
 ## Curriculum Vitae
 
-<object data="{{ site.baseurl }}/assets/Bilal_Mahmood_Resume_Skanska.pdf" type="application/pdf" width="100%" height="800px">
-  <p>Your browser doesn’t support embedded PDFs. 
-  <a href="{{ site.baseurl }}/assets/Bilal_Mahmood_Resume_Skanska.pdf">Download my CV</a> instead.</p>
+<object data="{{ 'assets/Bilal_Mahmood_Resume_Skanska.pdf' | relative_url }}" type="application/pdf" width="100%" height="800px">
+  <p>Your browser doesn’t support embedded PDFs.
+  <a href="{{ 'assets/Bilal_Mahmood_Resume_Skanska.pdf' | relative_url }}">Download my CV</a> instead.</p>
 </object>
 
 ---
