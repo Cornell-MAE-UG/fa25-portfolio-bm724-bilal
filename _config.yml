@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Bilal Mahmood
 description              : Bilal Mahmood - Projects and CV 
-baseurl                  : "/fa25-portfolio-bm724-bilal-main"
+baseurl                  : "/fa25-portfolio-bm724-bilal"
  # Set this to your repo name 
 
 # Theme and Style
