@@ -3,7 +3,7 @@ layout: project
 title: HW 5
 description: Homework Problem
 technologies: None
-image: /fa25-portfolio-bm724-bilal/assets/images/hw5porfolio.png
+image: assets/images/hw5porfolio.png
 ---
 
 
