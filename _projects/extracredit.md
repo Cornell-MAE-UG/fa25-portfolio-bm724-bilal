@@ -4,13 +4,13 @@ title: Extra Credit
 description: Heating Load Analysis
 ---
 
-# Heating Load Analysis of Duffield Hall (Cornell University)
+# Heating Load Analysis of Duffield Hall
 
-This report applies thermodynamic principles to a real system: **Duffield Hall**, a campus building at Cornell University. The objective is to estimate the heating power required to maintain a constant indoor temperature under winter conditions and to evaluate how outdoor temperature affects performance.
+This report applies thermodynamic principles to a real system: **Duffield Hall**, an engineering building here at Cornell. The objective is to estimate the heating power required to maintain a constant indoor temperature under winter conditions and to evaluate how outdoor temperature affects performance.
 
 ---
 
-## System Description
+## Duffield Hall System Description
 
 <p align="center">
   <img src="https://www.vermontstructuralslate.com/wp-content/uploads/2018/04/DSC_0018-1-1354x900.jpg"
@@ -34,19 +34,13 @@ No shaft work is produced by the building.
 
 ---
 
-## Governing Equations
-
-### Mass Balance
+## Equations
 
 At steady state:
 
 $$
 \dot{m}_{in} \approx \dot{m}_{out}
 $$
-
----
-
-### Energy Balance (First Law)
 
 For constant indoor temperature:
 
@@ -59,10 +53,6 @@ Heat loss is modeled as:
 $$
 \dot{Q}_{loss} = U A (T_{in} - T_{out})
 $$
-
----
-
-### Entropy Consideration
 
 Heat transfer across a finite temperature difference is irreversible, so:
 
@@ -115,7 +105,7 @@ $$
 \dot{Q}_{loss,new} = 200 \ \text{kW}
 $$
 
-This is a **33% increase** in heating power compared to the baseline case.
+This is a **33% increase** in heating power compared to the original case.
 
 ---
 
