@@ -1,12 +1,15 @@
 ---
 layout: project
-title: Extra Credit - ENGRD 2020
+title: Extra Credit - ENGRD 2210
 description: Analyzing Duffield Hall
+image: https://www.vermontstructuralslate.com/wp-content/uploads/2018/04/DSC_0018-1-1354x900.jpg
 ---
+
+I worked with Diya Sheth on this project.
 
 # Heating Load Analysis of Duffield Hall (Cornell University)
 
- **Duffield Hall**, is an Engineering building at Cornell University.In this portfolio I am trying to estimate the heating power that is required to maintain a constant indoor temperature under the harsh winter conditions. I am also trying to evaluate how outdoor temperature affects performance.
+ **Duffield Hall**, is an Engineering building at Cornell University. In this portfolio I am trying to estimate the heating power that is required to maintain a constant indoor temperature under the harsh winter conditions. I am also trying to evaluate how outdoor temperature affects performance.
 
 
 
@@ -18,7 +21,7 @@ description: Analyzing Duffield Hall
        width="500">
 </p>
 
-Duffield Hall is a an academic and laboratory building heated by Cornell’s campus steam system. During winter, heat is lost to the environment through the building envelope and air infiltration. The building is modeled as a steady-state control volume system.
+During winter, heat is lost to the environment through the building envelope and air infiltration. The building is modeled as a steady-state control volume system.
 
 
 
@@ -72,7 +75,7 @@ $$
 \dot{Q}_{in} = \dot{Q}_{loss}
 $$
 
-Rather than modeling detailed heat transfer through individual building components, the building heat loss is assumed to be **proportional to the indoor–outdoor temperature difference**:
+The building heat loss is assumed to be **proportional to the indoor–outdoor temperature difference**:
 
 $$
 \dot{Q}_{loss} = C (T_{in} - T_{out})
@@ -84,7 +87,7 @@ where $C$ is a constant that depends on the building’s construction and heat-l
 
 ### Entropy Consideration
 
-Heat transfer from the warm indoor space to the colder outdoor environment occurs across a finite temperature difference and is therefore irreversible. As a result, entropy is generated:
+Heat transfer from the warm indoor space to the colder outdoor environment occurs across a finite temperature difference and is irreversible. As a result, entropy is generated:
 
 $$
 \dot{S}_{gen} > 0
