@@ -200,4 +200,40 @@ footer {
   transform: translateX(-4px);
 }
 
+.milestone-toc {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 10px;
+  margin: 24px 0 30px;
+}
 
+.milestone-toc a {
+  border: 2px solid $primary-color;
+  border-radius: 8px;
+  color: $text-color;
+  font-weight: 700;
+  padding: 12px 14px;
+  text-align: center;
+  text-decoration: none;
+  transition: background 0.2s ease, color 0.2s ease, transform 0.2s ease;
+}
+
+.milestone-toc a:hover {
+  background: $primary-color;
+  color: $background-color;
+  transform: translateY(-2px);
+}
+
+.pdf-embed {
+  border: 2px solid $primary-color;
+  border-radius: 8px;
+  height: 640px;
+  margin: 12px 0 24px;
+  width: 100%;
+}
+
+@media (max-width: 640px) {
+  .pdf-embed {
+    height: 420px;
+  }
+}
