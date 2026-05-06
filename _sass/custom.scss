@@ -227,13 +227,13 @@ footer {
 .pdf-embed {
   border: 2px solid $primary-color;
   border-radius: 8px;
-  height: 640px;
+  height: 860px;
   margin: 12px 0 24px;
   width: 100%;
 }
 
 @media (max-width: 640px) {
   .pdf-embed {
-    height: 420px;
+    height: 620px;
   }
 }

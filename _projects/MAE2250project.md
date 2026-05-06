@@ -1,10 +1,10 @@
 ---
 layout: project
-title: MAE 2250 Project
+title: MAE 2250 ODP Project
 description: Targeted Oviposition Control for Spotted Lanternflies
 technologies: [CAD, 3D Printing, Prototype Testing, Fluid Delivery, Product Design]
-image: /assets/images/mae2250-project.png
-imagealt: MAE 2250 project thumbnail showing a vineyard deployment concept
+image:
+imagealt:
 ---
 
 ## Project Overview
@@ -15,9 +15,11 @@ imagealt: MAE 2250 project thumbnail showing a vineyard deployment concept
   <a href="#client-report">Client Report</a>
 </nav>
 
-This MAE 2250 project focused on a client challenge from Cornell CALS Extension, E&J Gallo Winery, and National Grape: reducing the spread of Spotted Lanternflies (SLF) by controlling where they lay egg masses. SLF can lay eggs on many surfaces, including vehicles and vineyard-adjacent equipment, which makes infestations difficult to contain once the eggs are transported.
+This project focuses on developing a targeted and scalable solution to reduce the spread of spotted lanternflies by addressing the root cause of reinfestation: uncontrolled egg-laying behavior. Rather than attempting to eliminate adult populations directly, our approach introduces localized "no-lay zones" that discourage oviposition in sensitive areas such as vineyards, equipment zones, and high-value agricultural regions.
 
-Our team proposed a distributed repellent device that creates localized "no-lay zones" using essential-oil based deterrents. Instead of only reducing adult SLF density after the insects are already present, the project targets oviposition so egg masses can be redirected, concentrated, monitored, and removed more effectively.
+To achieve this, we designed and prototyped a distributed repellent system consisting of compact, battery-powered devices that emit a controlled spray of an essential oil-water mixture. These devices are intended to be deployed in a network across vulnerable areas, creating overlapping zones of deterrence that redirect lanternflies away from protected spaces and toward more manageable locations. This strategy allows for more efficient monitoring and removal of egg masses while reducing the labor associated with widespread manual inspection.
+
+The project integrates mechanical design, fluid delivery, and environmental considerations to balance effectiveness, safety, and ease of use. Our prototype demonstrates the feasibility of maintaining a consistent repellent concentration, achieving meaningful spatial coverage, and operating reliably in a modular format suitable for field deployment. Overall, this system represents a shift from reactive control methods to a more proactive and targeted approach for managing spotted lanternfly populations.
 
 ## <span id="client-pitch">Client Pitch</span>
 
